@@ -3,7 +3,8 @@
 * 대회 : https://www.culture.go.kr/data/contest/main.do - 제 10회 문화데이터 경진대회 사이트
 
 # 대회결과 
-* 상장 이미지 추가
+![상장](https://user-images.githubusercontent.com/118336676/203074296-4717c8ad-04a9-4296-b8b3-4d748e2685f1.jpeg)
+
 
 # 1. 파일설명
 * 1. data preprocessing : 데이터 전처리 과정이 들어있는 폴더 입니다. 안에는 standard scale, log scale, UTMK 과정이 들어있습니다.
